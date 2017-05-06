@@ -1,0 +1,6 @@
+﻿ConfigDumpInfo.xml-->ConfigDumpInfo.xml
+Configuration.xml-->Configuration.xml
+Documents\ПоступлениеТоваровУслуг.xml-->Documents\ПоступлениеТоваровУслуг.xml
+Languages\Русский.xml-->Languages\Русский.xml
+Roles\ПолныеПрава.xml-->Roles\ПолныеПрава.xml
+Roles\ПолныеПрава\Ext\Rights.xml-->Roles\ПолныеПрава\Ext\Rights.xml
